@@ -9,4 +9,5 @@ How to use:
   - Windows: use 'cd' and tab until you are in the desired location
 - Now press enter
 - If the program doesn't run, simply type 'python IEEEFormatter.py' and the file will run in your terinal
-- Please contact if you find any issues!
+- Below is a tutorial:
+https://www.youtube.com/watch?v=yisjEV0WtRc&ab_channel=KeshavShankar
