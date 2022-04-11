@@ -1,5 +1,6 @@
 # IEEE-Citation-Creator
 This app takes a variety of publication data from a user and creates a citation in IEEE format.<br><br>
+![type2](https://user-images.githubusercontent.com/86859516/162661035-6a03dbfa-f84b-4581-acf1-a7392a1a6b25.jpg)
 --------------------------------------------------------------------------------------------------------<br>
 **INSTRUCTIONS**:<br><br>
 Simply Enter the desired information in the designated input boxes and click the cite button:
@@ -10,9 +11,7 @@ The resulting citation will be displayed and will automatically copy to your cli
 
 
 --------------------------------------------------------------------------------------------------------<br>
-**How to download (temporarily only for macOS)**:
-1. Download all the files in this repo to the same location on your computer
-2. Build the app/bundle on your operating system using these instructions
-- macOS: https://py2app.readthedocs.io/en/latest/
-
-**FULL INSTRUCTIONS TO COME ON HOW TO DOWNLOAD THE APPLICATION**
+**How to download:** <br>
+1. Click the MacOS or Windows file and download it.
+2. The downloaded file is an executable/app that you can store at any desired location.
+3. Simply run by opening the app.
